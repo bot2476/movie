@@ -13,7 +13,7 @@ class script(object):
 
 ❂ ᴛʏᴘᴇ /verify ɪɴ ɢʀᴏᴜᴘ.
 
-❂ ᴡᴀɪᴛ ᴜɴᴛɪʟ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ ɪꜱ ᴠᴇʀɪꜰɪᴇᴅ ʙʏ <b><a href="https://telegram.me/NobiDeveloperr">ᴏᴡɴᴇʀ</a></b>
+❂ ᴡᴀɪᴛ ᴜɴᴛɪʟ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ ɪꜱ ᴠᴇʀɪꜰɪᴇᴅ ʙʏ <b><a href="@Movie_service">ᴏᴡɴᴇʀ</a></b>
 
 ❂ ᴀꜰᴛᴇʀ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ꜱᴇɴᴅ /connect ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪᴅ
 
